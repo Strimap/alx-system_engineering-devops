@@ -1,1 +1,1 @@
-0.My name is betty
+My name is Betty
